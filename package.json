@@ -1,0 +1,20 @@
+{
+  "name": "css_interesting_patterns",
+  "version": "1.0.0",
+  "description": "Some interesting css tricks and patterns",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumudug/css_interesting_patterns.git"
+  },
+  "author": "kumudu gunasekara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumudug/css_interesting_patterns/issues"
+  },
+  "homepage": "https://github.com/kumudug/css_interesting_patterns#readme"
+}
