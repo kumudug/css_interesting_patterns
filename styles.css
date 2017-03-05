@@ -1,0 +1,7 @@
+.list-group a:nth-child(even){
+    background: lightgray;
+}
+a.list-group-item:nth-child(even):hover{
+    background: darkgray;
+    color: white;
+}

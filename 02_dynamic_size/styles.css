@@ -1,3 +1,7 @@
+body:first-of-type{
+    padding-top: 10px;  
+}
+
 .box{
     background-color: slategray;
     width: 60vw;

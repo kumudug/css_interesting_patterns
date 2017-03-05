@@ -1,0 +1,12 @@
+body:first-of-type{
+    padding-top: 10px;  
+}
+
+.pseudo-parent{
+    background: white;
+}
+
+.pseudo-parent .panel-body:hover{
+    margin-top: 20px;
+    border-color: green;
+}

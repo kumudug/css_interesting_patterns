@@ -1,0 +1,40 @@
+body:first-of-type{
+    padding-top: 10px;  
+}
+
+.seperate-area{
+    margin-top:50px;
+}
+
+.row > p {
+    text-decoration: underline;
+    color: blue;    
+}
+
+.panel div{
+    padding: 10px;
+}
+
+.parent-class1 .child-class1{
+    border-color: blue;
+    border: 2px solid;
+    border-radius: 4px;
+}
+
+.parent-class2 > .child-class1{
+    border-color: blue;
+    border: 2px solid;
+    border-radius: 4px;
+}
+
+.parent-class3 + .child-class1{
+    border-color: blue;
+    border: 2px solid;
+    border-radius: 4px;
+}
+
+.parent-class4 ~ .child-class1{
+    border-color: blue;
+    border: 2px solid;
+    border-radius: 4px;
+}

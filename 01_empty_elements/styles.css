@@ -1,3 +1,7 @@
+body:first-of-type{
+    padding-top: 10px;  
+}
+
 .alert-pattern1{
     border: 3px solid darkgreen;
     margin: 1em;
